@@ -1,0 +1,23 @@
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.list-group {
+  padding-top: 125px;
+}
+
+.list-group-item:hover {
+  cursor: pointer;
+  background-color: rgba(0, 123, 255, 0.1);
+}
+
+h1 {
+  font-size: 72px;
+}
+
+p {
+  font-size: 48px;
+}
