@@ -11,7 +11,4 @@ Bootstrap 4.0 <br/>
 JQuery 3.2.1 <br/>
 
 
-
-![Alt text](images/preview.png")
-"# Cat-Clicker" 
-"# Cat-Clicker" 
+![Alt text](images/preview.png?raw=true "Preview screenshot")
