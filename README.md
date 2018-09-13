@@ -3,7 +3,7 @@ Click on your favorite cat until your mouse explodes!...<br/>
 or until you get bored.<br/>
 
 ## Instructions
-Play this at http://0x566c6164-cat-clicker.surge.sh
+Play this at http://0x566c6164-cat-clicker.surge.sh<br/>
 Have fun.
 
 ## Sources & Dependencies
